@@ -4,14 +4,14 @@ all_ages = [12, 23, 45, 27, 87, 33, 20]
 
 class TestFilter:
 
-    def test_commom_approach(self): 
+    def test_commom_approach(self):
         names_starting_with_a = []
         for name in all_names:
             if name.startswith("A"):
                 names_starting_with_a.append(name)
 
         assert names_starting_with_a == ["Arthur", "Aaron"]
-    
+
     def test_isolating_function(self):
         def name_startswith_a(name):
             return name.startswith("A")
