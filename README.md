@@ -1,3 +1,8 @@
 code related to the post: understanding python list comprehensions with map, filter and reduce 
 
-to test it, run `python -m pytest tests.py`, python>=3.8
+The codebase are tests located in `src.py`
+
+## Testing
+
+run `python -m pytest src.py` with python>=3.8.
+

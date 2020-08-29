@@ -36,4 +36,4 @@ jobs:
         pylint `ls -R|grep .py$|xargs`
     - name: Test with pytest
       run: |
-        pytest tests.py
+        pytest src.py
