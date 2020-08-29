@@ -1,4 +1,4 @@
-## Understanding python list comprehensions with `map`, `filter` and `reduce`
+## Understanding python list comprehensions with map, filter and reduce
 
 code related to the post: **Understanding python list comprehensions with `map`, `filter` and `reduce`**
 
