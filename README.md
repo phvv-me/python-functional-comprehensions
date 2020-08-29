@@ -1,6 +1,6 @@
 ## Understanding python list comprehensions with map, filter and reduce
 
-code related to the post: **Understanding python list comprehensions with `map`, `filter` and `reduce`**
+Code related to the post: **Understanding python list comprehensions with `map`, `filter` and `reduce`**
 
 The codebase are tests located in `src.py`
 
